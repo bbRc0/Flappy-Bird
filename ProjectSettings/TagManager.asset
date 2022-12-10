@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - scorer
+  - Bitcek
+  - pipey
+  - DeathArea
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ArkaPlan
+    uniqueID: 1118035093
+    locked: 0
+  - name: Boru
+    uniqueID: 3641084365
+    locked: 0
+  - name: Zemin
+    uniqueID: 326842087
+    locked: 0
+  - name: Bird
+    uniqueID: 403230557
+    locked: 0
+  - name: Canvas
+    uniqueID: 2290906533
+    locked: 0
