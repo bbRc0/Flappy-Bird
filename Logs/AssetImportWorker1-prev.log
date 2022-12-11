@@ -15,7 +15,7 @@ C:/Users/ahmet/OneDrive/Documents/GitHub/Flappy-Bird
 -logFile
 Logs/AssetImportWorker1.log
 -srvPort
-61566
+61487
 Successfully changed project path to: C:/Users/ahmet/OneDrive/Documents/GitHub/Flappy-Bird
 C:/Users/ahmet/OneDrive/Documents/GitHub/Flappy-Bird
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -47,7 +47,7 @@ C:/Users/ahmet/OneDrive/Documents/GitHub/Flappy-Bird
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Refreshing native plugins compatible for Editor in 75.57 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 78.73 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.3.8f1 (b30333d56e81)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.8f1/Editor/Data/Resources/UnitySubsystems
@@ -63,92 +63,92 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.8f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.8f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.8f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56188
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56428
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.8f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.8f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.003919 seconds.
+Registered in 0.004048 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for Android target not found
-Refreshing native plugins compatible for Editor in 75.27 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 76.48 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.560 seconds
+- Completed reload, in  0.592 seconds
 Domain Reload Profiling:
-	ReloadAssembly (560ms)
-		BeginReloadAssembly (64ms)
+	ReloadAssembly (593ms)
+		BeginReloadAssembly (63ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (411ms)
+		EndReloadAssembly (437ms)
 			LoadAssemblies (61ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (89ms)
+			SetupTypeCache (98ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (32ms)
-			SetupLoadedEditorAssemblies (247ms)
+			RebuildScriptCaches (30ms)
+			SetupLoadedEditorAssemblies (262ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (46ms)
+				InitializePlatformSupportModulesInManaged (51ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (75ms)
+				RefreshPlugins (77ms)
 				BeforeProcessingInitializeOnLoad (1ms)
-				ProcessInitializeOnLoadAttributes (89ms)
-				ProcessInitializeOnLoadMethodAttributes (35ms)
+				ProcessInitializeOnLoadAttributes (91ms)
+				ProcessInitializeOnLoadMethodAttributes (42ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.007548 seconds.
+Registered in 0.009382 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\ahmet\OneDrive\Documents\GitHub\Flappy-Bird\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\ahmet\OneDrive\Documents\GitHub\Flappy-Bird\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
 Native extension for Android target not found
-Refreshing native plugins compatible for Editor in 76.89 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 84.26 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.116 seconds
+- Completed reload, in  1.148 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1117ms)
-		BeginReloadAssembly (215ms)
+	ReloadAssembly (1149ms)
+		BeginReloadAssembly (205ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (5ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (139ms)
-		EndReloadAssembly (804ms)
-			LoadAssemblies (71ms)
+			CreateAndSetChildDomain (128ms)
+		EndReloadAssembly (845ms)
+			LoadAssemblies (73ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (211ms)
+			SetupTypeCache (214ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (54ms)
-			SetupLoadedEditorAssemblies (422ms)
+			RebuildScriptCaches (60ms)
+			SetupLoadedEditorAssemblies (448ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (11ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (77ms)
-				BeforeProcessingInitializeOnLoad (92ms)
-				ProcessInitializeOnLoadAttributes (198ms)
-				ProcessInitializeOnLoadMethodAttributes (39ms)
+				RefreshPlugins (84ms)
+				BeforeProcessingInitializeOnLoad (102ms)
+				ProcessInitializeOnLoadAttributes (208ms)
+				ProcessInitializeOnLoadMethodAttributes (38ms)
 				AfterProcessingInitializeOnLoad (5ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (4ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 0.87 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 1.32 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 4116 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 38 unused Assets / (55.4 KB). Loaded Objects now: 4575.
+Unloading 38 unused Assets / (55.8 KB). Loaded Objects now: 4574.
 Memory consumption went from 154.5 MB to 154.4 MB.
-Total: 4.543900 ms (FindLiveObjects: 0.438000 ms CreateObjectMapping: 0.270900 ms MarkObjects: 3.741900 ms  DeleteObjects: 0.092100 ms)
+Total: 4.587200 ms (FindLiveObjects: 0.506600 ms CreateObjectMapping: 0.404300 ms MarkObjects: 3.554500 ms  DeleteObjects: 0.120500 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -163,56 +163,92 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 1288125.383195 seconds.
-  path: Assets/Scripts
-  artifactKey: Guid(837dad1d6ab72e04fa8b56e77fa3cd58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts using Guid(837dad1d6ab72e04fa8b56e77fa3cd58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9a12047d102f57eb4aca39d3a2088dd') in 0.011998 seconds 
+  Time since last request: 1288041.966591 seconds.
+  path: Assets/Flappy-Bird-Oyunu-Assetlerim-main/yellowbird-downflap.png
+  artifactKey: Guid(aef847075ba62444fb7dc0e0e9f12c87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flappy-Bird-Oyunu-Assetlerim-main/yellowbird-downflap.png using Guid(aef847075ba62444fb7dc0e0e9f12c87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70b20b544ea66d53702665bf3164a7f5') in 0.125928 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000073 seconds.
+  path: Assets/Flappy-Bird-Oyunu-Assetlerim-main/kanat.wav
+  artifactKey: Guid(1a131af957835694089bcf635bae71e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flappy-Bird-Oyunu-Assetlerim-main/kanat.wav using Guid(1a131af957835694089bcf635bae71e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9d98434f537c0eee1c8dc89296baa97') in 0.064192 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(131a6b21c8605f84396be9f6751fb6e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(131a6b21c8605f84396be9f6751fb6e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c23e514d24f6b65fe96946cd87fc526') in 0.008002 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/Flappy-Bird-Oyunu-Assetlerim-main/sound-off-music-mute-off-sound-speaker-volume-icon-16.png
+  artifactKey: Guid(46031297b60d01847b03c9df44da0624) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flappy-Bird-Oyunu-Assetlerim-main/sound-off-music-mute-off-sound-speaker-volume-icon-16.png using Guid(46031297b60d01847b03c9df44da0624) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1efe20d353cc159147bb96df8992b1f7') in 0.030512 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Flappy-Bird-Oyunu-Assetlerim-main/yellowbird-upflap.png
+  artifactKey: Guid(260e1eb60a89bc042b1c550b30af30a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flappy-Bird-Oyunu-Assetlerim-main/yellowbird-upflap.png using Guid(260e1eb60a89bc042b1c550b30af30a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4da35e8f9e92ce1f05a1e5db2135c4c1') in 0.022657 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Flappy-Bird-Oyunu-Assetlerim-main/ölüm.wav
+  artifactKey: Guid(09a7dffe63eeae04abf99893c048e780) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flappy-Bird-Oyunu-Assetlerim-main/ölüm.wav using Guid(09a7dffe63eeae04abf99893c048e780) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41ea319bb5379379f733ff29cb4a4201') in 0.013440 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Flappy-Bird-Oyunu-Assetlerim-main/pngwing.com.png
+  artifactKey: Guid(a9dbaa5fbc1389745a1006c441de1070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flappy-Bird-Oyunu-Assetlerim-main/pngwing.com.png using Guid(a9dbaa5fbc1389745a1006c441de1070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a86e42d3379eca0d9953485956ff36b') in 0.036264 seconds 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.008686 seconds.
+Registered in 0.006585 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\ahmet\OneDrive\Documents\GitHub\Flappy-Bird\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\ahmet\OneDrive\Documents\GitHub\Flappy-Bird\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
 Native extension for Android target not found
-Refreshing native plugins compatible for Editor in 0.85 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 1.50 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.038 seconds
+- Completed reload, in  1.018 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1038ms)
-		BeginReloadAssembly (152ms)
+	ReloadAssembly (1019ms)
+		BeginReloadAssembly (130ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (8ms)
+			DisableScriptedObjects (9ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (44ms)
-		EndReloadAssembly (769ms)
-			LoadAssemblies (95ms)
+			CreateAndSetChildDomain (43ms)
+		EndReloadAssembly (796ms)
+			LoadAssemblies (82ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (285ms)
+			SetupTypeCache (262ms)
 			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (51ms)
-			SetupLoadedEditorAssemblies (289ms)
+			RebuildScriptCaches (53ms)
+			SetupLoadedEditorAssemblies (339ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (23ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (62ms)
-				ProcessInitializeOnLoadAttributes (164ms)
-				ProcessInitializeOnLoadMethodAttributes (33ms)
+				InitializePlatformSupportModulesInManaged (21ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (72ms)
+				ProcessInitializeOnLoadAttributes (192ms)
+				ProcessInitializeOnLoadMethodAttributes (47ms)
 				AfterProcessingInitializeOnLoad (5ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (6ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 2.11 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 2.61 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 4092 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 25 unused Assets / (24.6 KB). Loaded Objects now: 4578.
-Memory consumption went from 152.6 MB to 152.5 MB.
-Total: 3.157000 ms (FindLiveObjects: 0.337800 ms CreateObjectMapping: 0.193100 ms MarkObjects: 2.588000 ms  DeleteObjects: 0.037000 ms)
+Unloading 25 unused Assets / (24.7 KB). Loaded Objects now: 4593.
+Memory consumption went from 156.9 MB to 156.9 MB.
+Total: 3.749100 ms (FindLiveObjects: 0.424500 ms CreateObjectMapping: 0.308900 ms MarkObjects: 2.985100 ms  DeleteObjects: 0.029200 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 

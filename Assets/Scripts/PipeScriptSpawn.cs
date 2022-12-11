@@ -12,8 +12,7 @@ public class PipeScriptSpawn : MonoBehaviour
 
     private void Start()
     {
-        GameObject acilanpipe = Instantiate(pipe);
-        
+        GameObject newpipe = Instantiate(pipe);    
     }
 
     private void Update()
